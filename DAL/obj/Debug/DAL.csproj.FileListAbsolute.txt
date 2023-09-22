@@ -1,0 +1,9 @@
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\bin\Debug\DAL.dll
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\bin\Debug\DAL.pdb
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\bin\Debug\nunit.framework.dll
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\bin\Debug\nunit.framework.xml
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\obj\Debug\DAL.dll
+D:\PHASE4 END PROJECTS\PhaseendProject\DAL\obj\Debug\DAL.pdb
